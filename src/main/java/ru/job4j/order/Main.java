@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @author itfedorovsa (itfedorovsa@gmail.com)
  * @version 1.0
- * @since 03.05.23
+ * @since 06.05.23
  */
 @SpringBootApplication
 public class Main {
